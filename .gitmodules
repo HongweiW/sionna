@@ -1,4 +1,4 @@
 [submodule "ext/sionna-rt"]
 	path = ext/sionna-rt
-	url = ../sionna-rt.git
+	url = https://github.com/HongweiW/sionna-rt.git
 	branch = main
